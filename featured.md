@@ -36,7 +36,6 @@ Powered by **Google Gemini 2.5 Flash**. Average response time: <1.8 seconds.
 | --- | --- |
 | Patients wait hours for replies | Instant 24/7 responses |
 | Staff repeats same answers | AI handles FAQs automatically |
-| Missed appointments | Automated reminders sent |
 | No patient history in chat | Full context remembered |
 
 ---
@@ -44,7 +43,6 @@ Powered by **Google Gemini 2.5 Flash**. Average response time: <1.8 seconds.
 ## 🔮 Roadmap
 
 - [x] **v1.0** - Core Chat + Memory + Gemini 2.5 Flash
-- [ ] **v1.1** - Multilingual Support: Urdu, English, Arabic
 - [ ] **v1.2** - CRM + EHR Integration for patient records
 - [ ] **v1.3** - Voice Assistant for elderly patients
 

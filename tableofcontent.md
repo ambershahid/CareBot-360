@@ -40,9 +40,13 @@ This document will help you navigate all project files quickly.
 
 ## 🗂️ File Structure
 CareBot-360/
-│
+
 ├── README.md                 # Main project overview
+
 ├── FEATURED.md               # Project highlights and features
+
 ├── FLOWCHART.md              # Workflow diagram with explanation
+
 ├── TROUBLESHOOTING.md        # Common errors and fixes
+
 ├── TABLEOFCONTENTS.md        # This file
