@@ -14,6 +14,10 @@
 **CareBot 360** is an AI-powered healthcare assistant built with n8n and Google Gemini 2.5 Flash.  
 This document will help you navigate all project files quickly.
 
+## 🎥 Demo Video
+
+https://www.linkedin.com/posts/amber-shahid-684874350_ai-healthtech-artificialintelligence-activity-7501329305617133568-Cmw5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexdcQB64WadUaxFz6H3bGdWAAFG0bEMLw
+
 ---
 
 ## 📚 Documentation Index

@@ -18,6 +18,9 @@ It helps patients, clinics, and caregivers with 24/7 support, appointment remind
 > *"Healthcare made simple, accessible, and compassionate."*
 
 ---
+## 🎥 Demo Video
+
+https://www.linkedin.com/posts/amber-shahid-684874350_ai-healthtech-artificialintelligence-activity-7501329305617133568-Cmw5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFexdcQB64WadUaxFz6H3bGdWAAFG0bEMLw
 
 ## ✨ Key Features
 
